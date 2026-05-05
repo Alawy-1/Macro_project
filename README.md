@@ -5,9 +5,9 @@ The idea of this project is to excersize the and understand how the include stat
 ## Important Note 
 
 There are three options for this program to operate:
-1.: Inner for loop runs
-2.: Outer for loop runs 
-3.: Both loops (complete loop cycle) runs
+1. Inner for loop runs
+2. Outer for loop runs 
+3. Both loops (complete loop cycle) runs
 
 ## Usage 
 
